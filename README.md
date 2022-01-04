@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridonky
-- 👀 I’m interested in ethical tech, sustainability, running, germies (german shepherds), learning programming.
-- 🌱 I’m currently learning ... THE BASICS. Right now, enjoying learning Python and building a Twitter bot.
+- 👀 I’m interested in ethical tech, sustainability, running, learnding coding and my dog.
+- 🌱 I’m currently learning ... THE BASICS. Right now, enjoying learning Python.
 - 💞️ I’m looking to collaborate on ... once I get git sorted i'll let you know.
 - 📫 How to reach me ... @laurenperini on Twitter.
