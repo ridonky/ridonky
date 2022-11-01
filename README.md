@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridonky
 - 👀 I’m interested in ethical tech, sustainability, running, learning programming and my dog.
-- 🌱 I’m currently learning ... DS&A repeatedly, practicing for interviews.
+- 🌱 I’m currently learning ... DS&A repeatedly.
 - 💞️ I’m looking to collaborate on ... anything hacktoberfest! Bite sized BE projects, preferably in Python or C.
 - 📫 How to reach me ... @laurenperini on Twitter.
